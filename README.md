@@ -31,13 +31,6 @@ reporting data.
 The activity screen is a clean public-demo derivative: its project, location, identifier, event,
 and time fields are fictitious. The other screens contain no customer or project identifiers.
 
-## Interface
-
-<p align="center">
-  <img src="docs/screenshots/index-desktop.png" width="73%" alt="Synthetic scan quality workflow on desktop">
-  <img src="docs/screenshots/index-mobile.png" width="23%" alt="Synthetic scan quality workflow on mobile">
-</p>
-
 ## Architecture
 
 ```mermaid
