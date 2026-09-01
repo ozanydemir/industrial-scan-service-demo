@@ -11,6 +11,26 @@ No employer, customer, project, database, endpoint, image, barcode, operator, or
 process information from a real system is included. The schema and data were created specifically
 for this public portfolio repository.
 
+## Tarama prototype reference screens
+
+These static screens show the interface direction that informed this portfolio presentation. They
+are not connected to this demo application, a live system, a production database, or an external
+endpoint. They must not be interpreted as current scan results, customer records, or operational
+reporting data.
+
+<p align="center">
+  <img src="docs/reference/tarama-dashboard-overview.png" width="48%" alt="Static Tarama dashboard reference">
+  <img src="docs/reference/tarama-activity-demo.png" width="48%" alt="Sanitized public-demo activity dashboard reference">
+</p>
+
+<p align="center">
+  <img src="docs/reference/tarama-material-report.png" width="48%" alt="Static material summary reference">
+  <img src="docs/reference/tarama-records-filter.png" width="48%" alt="Static scan-record filter reference">
+</p>
+
+The activity screen is a clean public-demo derivative: its project, location, identifier, event,
+and time fields are fictitious. The other screens contain no customer or project identifiers.
+
 ## Interface
 
 <p align="center">

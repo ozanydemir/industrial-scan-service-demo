@@ -5,3 +5,11 @@ barcode, database, endpoint, credential, image, report, or proprietary process i
 
 Connection strings and production adapters are intentionally absent. A real integration would need
 environment-based secret management, access control, audit logging, and generic error responses.
+
+## Reference-screen rule
+
+Static interface references are permitted only after review. They must not expose customer,
+employer, project, location, operator, component, barcode, report, endpoint, or other traceable
+operational information. A timestamp associated with a real activity must be removed or replaced.
+Any field that could identify a real activity must be replaced with clearly fictional public-demo
+content before publication.
